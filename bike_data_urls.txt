@@ -62,7 +62,6 @@ http://cycling.data.tfl.gov.uk/usage-stats/45JourneyDataExtract15Feb2017-21Feb20
 http://cycling.data.tfl.gov.uk/usage-stats/46JourneyDataExtract22Feb2017-28Feb2017.csv
 http://cycling.data.tfl.gov.uk/usage-stats/47JourneyDataExtract01Mar2017-07Mar2017.csv
 http://cycling.data.tfl.gov.uk/usage-stats/48JourneyDataExtract08Mar2017-14Mar2017.csv
-http://cycling.data.tfl.gov.uk/usage-stats/49JourneyDataExtract15Mar2017-21Mar2017.xlsx
 http://cycling.data.tfl.gov.uk/usage-stats/4a.JourneyDataExtract01Apr15-16Apr15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/4b.JourneyDataExtract 17Apr15-02May15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/50 Journey Data Extract 22Mar2017-28Mar2017.csv
