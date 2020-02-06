@@ -1,7 +1,9 @@
+# A few lines are commented out. These are files that are also in the zip files,
+# so we don't download them individually.
 http://cycling.data.tfl.gov.uk/usage-stats/01aJourneyDataExtract10Jan16-23Jan16.csv
-http://cycling.data.tfl.gov.uk/usage-stats/01b Journey Data Extract 24Jan16-06Feb16.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/01b Journey Data Extract 24Jan16-06Feb16.csv
 http://cycling.data.tfl.gov.uk/usage-stats/01bJourneyDataExtract24Jan16-06Feb16.csv
-http://cycling.data.tfl.gov.uk/usage-stats/02aJourneyDataExtract07Fe16-20Feb2016.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/02aJourneyDataExtract07Fe16-20Feb2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/02bJourneyDataExtract21Feb16-05Mar2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/03JourneyDataExtract06Mar2016-31Mar2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/04JourneyDataExtract01Apr2016-30Apr2016.csv
@@ -10,17 +12,17 @@ http://cycling.data.tfl.gov.uk/usage-stats/07JourneyDataExtract25May2016-31May20
 http://cycling.data.tfl.gov.uk/usage-stats/08JourneyDataExtract01Jun2016-07Jun2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/09JourneyDataExtract08Jun2016-14Jun2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/10JourneyDataExtract15Jun2016-21Jun2016.csv
-http://cycling.data.tfl.gov.uk/usage-stats/10a-Journey-Data-Extract-20Sep15-03Oct15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/10b-Journey-Data-Extract-04Oct15-17Oct15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/10a-Journey-Data-Extract-20Sep15-03Oct15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/10b-Journey-Data-Extract-04Oct15-17Oct15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/11JourneyDataExtract22Jun2016-28Jun2016.csv
-http://cycling.data.tfl.gov.uk/usage-stats/11a-Journey-Data-Extract-18Oct15-31Oct15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/11b-Journey-Data-Extract-01Nov15-14Nov15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/11a-Journey-Data-Extract-18Oct15-31Oct15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/11b-Journey-Data-Extract-01Nov15-14Nov15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/12JourneyDataExtract29Jun2016-05Jul2016.csv
-http://cycling.data.tfl.gov.uk/usage-stats/12aJourneyDataExtract15Nov15-27Nov15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/12bJourneyDataExtract28Nov15-12Dec15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/12aJourneyDataExtract15Nov15-27Nov15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/12bJourneyDataExtract28Nov15-12Dec15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/13JourneyDataExtract06Jul2016-12Jul2016.csv
-http://cycling.data.tfl.gov.uk/usage-stats/13aJourneyDataExtract13Dec15-24Dec15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/13bJourneyDataExtract25Dec15-09Jan16.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/13aJourneyDataExtract13Dec15-24Dec15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/13bJourneyDataExtract25Dec15-09Jan16.csv
 http://cycling.data.tfl.gov.uk/usage-stats/14JourneyDataExtract13Jul2016-19Jul2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/15JourneyDataExtract20Jul2016-26Jul2016.csv
 http://cycling.data.tfl.gov.uk/usage-stats/16JourneyDataExtract27Jul2016-02Aug2016.csv
@@ -78,7 +80,7 @@ http://cycling.data.tfl.gov.uk/usage-stats/6aJourneyDataExtract31May15-12Jun15.c
 http://cycling.data.tfl.gov.uk/usage-stats/6bJourneyDataExtract13Jun15-27Jun15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/7a.JourneyDataExtract28Jun15-11Jul15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/7b.JourneyDataExtract12Jul15-25Jul15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/8a-Journey-Data-Extract-26Jul15-07Aug15.csv
-http://cycling.data.tfl.gov.uk/usage-stats/8b-Journey-Data-Extract-08Aug15-22Aug15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/8a-Journey-Data-Extract-26Jul15-07Aug15.csv
+# http://cycling.data.tfl.gov.uk/usage-stats/8b-Journey-Data-Extract-08Aug15-22Aug15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/9a-Journey-Data-Extract-23Aug15-05Sep15.csv
 http://cycling.data.tfl.gov.uk/usage-stats/9b-Journey-Data-Extract-06Sep15-19Sep15.csv

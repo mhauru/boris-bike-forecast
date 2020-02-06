@@ -19,7 +19,7 @@ def download_file(datafolder, url):
     else:
         logging.info("Downloading {}".format(filename))
         rqst = requests.get(url)
-        with open(filepath, 'wb') as f:
+        with open(filepath, "wb") as f:
             f.write(rqst.content)
     return filepath
 
@@ -32,6 +32,9 @@ datafolder = Path("./data/bikes")
 urlsfile = "bike_data_urls.txt"
 with open(urlsfile, "r") as f:
     urls = f.read().splitlines()
+# There are a few comments in the file, marked by lines starting with #.
+# Filter them out.
+urls = [u for u in urls if u[0] != "#"]
 for url in urls:
     download_file(datafolder, url)
 
@@ -47,5 +50,5 @@ bikezipurls = [
 for url in bikezipurls:
     zippath = download_file(zipsfolder, url)
     logging.info("Unziping {}".format(zippath))
-    with zipfile.ZipFile(zippath, 'r') as z:
+    with zipfile.ZipFile(zippath, "r") as z:
         z.extractall(datafolder)
